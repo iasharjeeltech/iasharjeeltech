@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently learning **Data Science and Cloud Computing**
   
-- currently learning languages **Data Scienc**
+- currently learning languages **Python DSA**
 
 - 📝 I regularly write articles on [iasharjeel.tech](iasharjeel.tech)
 
