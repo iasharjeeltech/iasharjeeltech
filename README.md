@@ -18,7 +18,7 @@
 <a href="https://kaggle.com/iasharjeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="iasharjeel" height="30" width="40" /></a>
 <a href="https://fb.com/iasharjeel.786" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="iasharjeel.786" height="30" width="40" /></a>
 <a href="https://instagram.com/iasharjeel.tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iasharjeel.tech" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/iasharjeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iasharjeel" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@iasharjeel9726" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="iasharjeel" height="30" width="40" /></a>
 <a href="https://discord.gg/iasharjeel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="iasharjeel" height="30" width="40" /></a>
 </p>
 
