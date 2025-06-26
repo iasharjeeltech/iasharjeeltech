@@ -7,8 +7,6 @@
 
 - 👨‍💻 I’m currently working on **.NET projects** and building **real-world applications**
 
-- 🌱 Currently learning **Data Science, Cloud Computing (Azure), and Python DSA**
-
 - 💡 Skilled in **C# (.NET Core), SQL, HTML, CSS, JavaScript, Bootstrap, and Git**
 
 - 🧠 Improving my knowledge in **Clean Architecture, REST APIs, and Backend Systems**
